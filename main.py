@@ -169,7 +169,7 @@ def main():
         
 
     #pygame.quit()
-    main() # This will take us back to the main function so we have to write (pygame.quit()) at line 126 otherwise we cannot quit the game
+    main() # This will take us back to the main function so we have to write (pygame.quit()) at line 128 otherwise we cannot quit the game
 
 
 if __name__ == "__main__":
